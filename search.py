@@ -1,0 +1,2 @@
+# INSERT YOUR IMPLEMENTATION OF binary_search HERE
+
